@@ -51,7 +51,7 @@
 7 | Binary Tree, Traversal |  [[Slides]](./content/07/REC_PPT_07.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/07/code) | [[Assignment 5]](./content/notes/A_05.pdf)
 8 | Binary Search Tree |  [[Slides]](./content/08/REC_PPT_08.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/08/code)  | [[Assignment 6]](./content/notes/A_06.pdf)
 9 | Graph: Introduction |  [[Slides]](./content/09/REC_PPT_09.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/09/code)  | [[Assignment 7]](./content/notes/A_07.pdf)
-10 | Graph: BFS, DFS |  [[Slides]](./content/10/REC_PPT_10.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/10/code)  | -
+10 | Graph: BFS, DFS |  [[Slides]](./content/10/REC_PPT_10.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/10/code)  | [[Implementation Note]](./content/10/graph_implementation_note.pdf)
 
 <br />
 
