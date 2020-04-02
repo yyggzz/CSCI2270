@@ -18,7 +18,7 @@
     <tr>
         <td>Recitation</td>
         <td>THU, 8:00 AM - 9:15 AM</td>
-        <td>MUEN-E113</td>
+        <td>Zoom (Check Moodle)</td>
     </tr>
     <tr>
         <td rowspan = "3" valign = "center">Office Hours</td>
@@ -52,6 +52,8 @@
 8 | Binary Search Tree |  [[Slides]](./content/08/REC_PPT_08.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/08/code)  | [[Assignment 6]](./content/notes/A_06.pdf)
 9 | Graph: Introduction |  [[Slides]](./content/09/REC_PPT_09.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/09/code)  | [[Assignment 7]](./content/notes/A_07.pdf)
 10 | Graph: BFS, DFS |  [[Slides]](./content/10/REC_PPT_10.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/10/code)  | [[Implementation Note]](./content/10/graph_implementation_note.pdf)
+10 | Graph: Review, Dijkstra's |  [[Slides]](./content/11/REC_PPT_11.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/11/code)  | -
+
 
 <br />
 
