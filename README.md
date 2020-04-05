@@ -53,15 +53,6 @@
 9 | Graph: Introduction |  [[Slides]](./content/09/REC_PPT_09.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/09/code)  | [[Assignment 7]](./content/notes/A_07.pdf)
 10 | Graph: BFS, DFS |  [[Slides]](./content/10/REC_PPT_10.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/10/code)  | [[Implementation Note]](./content/10/graph_implementation_note.pdf)
 11 | Graph: Review, Dijkstra's |  [[Slides]](./content/11/REC_PPT_11.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/11/code)  | No Notes on A8, A9
-<!-- 
-12 | Hashing |  [[Slides]](./content/12/REC_PPT_12.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/12/code/hashing/)  | No Notes on A9
--->
-<!-- 
-12 | Midterm 2 (Review) | [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/12/code/midterm_2/)  | [Midterm 2] 
--->
-<!-- 
-13 | Priority Queue, Heap | [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/13/code/)  | - 
--->
 
 <br />
 
