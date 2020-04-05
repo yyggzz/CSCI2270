@@ -18,20 +18,20 @@
     <tr>
         <td>Recitation</td>
         <td>THU, 8:00 AM - 9:15 AM</td>
-        <td>Zoom (Check Moodle)</td>
+        <td>Zoom</td>
     </tr>
     <tr>
         <td rowspan = "3" valign = "center">Office Hours</td>
         <td>WED, 3 PM - 5 PM</td>
-        <td>ECAE 128</td>
+        <td>Zoom</td>
     </tr>
     <tr>
         <td>THU, 5 PM - 6 PM </td>
-        <td>ECAE 128</td>
+        <td>Zoom</td>
     </tr>
     <tr>
         <td>FRI, 3 PM - 5 PM</td>
-        <td>ECAE 128</td>
+        <td>Zoom</td>
     </tr>
     
 </table>
