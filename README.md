@@ -47,12 +47,13 @@
 3 | Dynamic Arrays, Linked List | [[Slides]](./content/03/REC_PPT_03.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/03/code)| [[Assignment 2]](./content/notes/A_02.pdf)
 4 | Operations on Linked List | [[Slides]](./content/04/REC_PPT_04.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/04/code)| [[Assignment 3]](./content/notes/A_03.pdf)
 5 | Stack, Queue | [[Slides]](./content/05/REC_PPT_05.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/05/code)| [[Assignment 4]](./content/notes/A_04.pdf)
-6 | Midterm 1 (Review Session) | [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/06/code)| [[Midterm 1]](./content/06/M_01.pdf)
+6 | Midterm 1 (Review) | [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/06/code)| [[Midterm 1]](./content/06/M_01.pdf)
 7 | Binary Tree, Traversal |  [[Slides]](./content/07/REC_PPT_07.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/07/code) | [[Assignment 5]](./content/notes/A_05.pdf)
 8 | Binary Search Tree |  [[Slides]](./content/08/REC_PPT_08.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/08/code)  | [[Assignment 6]](./content/notes/A_06.pdf)
 9 | Graph: Introduction |  [[Slides]](./content/09/REC_PPT_09.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/09/code)  | [[Assignment 7]](./content/notes/A_07.pdf)
 10 | Graph: BFS, DFS |  [[Slides]](./content/10/REC_PPT_10.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/10/code)  | [[Implementation Note]](./content/10/graph_implementation_note.pdf)
 11 | Graph: Review, Dijkstra's |  [[Slides]](./content/11/REC_PPT_11.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/11/code)  | No Notes on A8, A9
+12 | Hashing; Midterm 2 (Review) |  [[Slides]](./content/12/REC_PPT_12.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/12/code)  | [[Midterm 2]](./content/12/M_02.pdf)
 
 <br />
 
