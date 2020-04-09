@@ -275,8 +275,8 @@ void Graph::dijkstra_shortest_path_pointer(string sourceVertex){
 
     vector<vertex*> Q;  // create a vector to keep track of unvisited nodes
     for(int i = 0; i < vertices.size(); i++) {
-        vertex** tmp = &(*(vertices.begin() + i));
-        Q.push_back(*tmp);
+        vertex* tmp = vertices.at(i);
+        Q.push(tmp);
     }
 
     cout << "[Dijkstra's Normal (source: " << vStart->name << ")] " << endl;
