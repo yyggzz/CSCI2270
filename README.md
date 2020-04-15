@@ -55,6 +55,7 @@
 11 | Graph: Review, Dijkstra's |  [[Slides]](./content/11/REC_PPT_11.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/11/code)  | No Notes on A8
 12 | Hashing |  [[Slides]](./content/12/REC_PPT_12.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/12/code) | No Notes on A9
 12 | Midterm 2 (Review) | [[Practice M2 - SOL]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/12/code_m2) | [[Midterm 2]](./content/notes/M_02.pdf)
+13 | Priority Queue, Heap |  [[Slides]](./content/13/REC_PPT_13.pdf), [[Code]](https://github.com/sanskarkatiyar/CSCI2270/tree/master/content/13/code) | -
 
 <br />
 
