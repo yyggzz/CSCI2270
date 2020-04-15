@@ -261,6 +261,8 @@ void Graph::dijkstra_shortest_path_priority_queue(string sourceVertex){
     cout << "\n\n";
 }
 
+// You will have to include <bits/stdc++.h> to use INT_MAX
+// You may substitute INT_MAX or FLT_MAX with an incredibly large number
 void Graph::dijkstra_shortest_path_pointer(string sourceVertex){
     // Find the starting vertex
     // Need a pointer to keep track of starting vertex
