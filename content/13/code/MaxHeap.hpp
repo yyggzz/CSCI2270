@@ -75,7 +75,7 @@ void MaxHeap::MaxHeapify(int i)
   int r = rightChild(i);
   int largest = i;
 
-  if(l < currentSize && heapArr[l].key > heapArr[i].key && heapArr[l].key > heapArr[r].key) {
+  if(l < currentSize && heapArr[l].key > heapArr[i].key && (r >= currentSize || heapArr[l].key > heapArr[r].key)) {
     largest = l;
   }
   else if(r < currentSize && heapArr[r].key > heapArr[i].key) {
